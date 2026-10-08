@@ -239,4 +239,4 @@ This repository serves as the official landing page for WIRIS Desktop. The softw
 **Get the most recent version of WIRIS Desktop today!**
 
 ---
-**Last updated:** 2026-10-08 00:35:47 UTC
+**Last updated:** 2026-10-08 06:50:53 UTC
